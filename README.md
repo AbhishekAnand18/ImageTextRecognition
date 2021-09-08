@@ -17,5 +17,10 @@ The architecture consists of three parts:
 
 Please check my iPython Notebook for detailed analysis and implementation of this project.
 
+## Blog
+I have written a Medium Blog giving a detailed explaination of the implementation. Do feel free to read it.
+https://medium.com/analytics-vidhya/image-text-recognition-738a368368f5
+
+
 
 
