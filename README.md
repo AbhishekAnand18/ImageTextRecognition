@@ -9,4 +9,13 @@ and should have a good letter match accuracy.
 *	Letter Accuracy
 *	CTC Loss
 
+## Model Architecture
+The architecture consists of three parts:
+1. convolutional layers, which extract a feature sequence from the input image;
+2. recurrentlayers, which predict a label distribution for each frame;
+3. transcription layer, which translates the per-frame predictions into the final label sequence
+
+Please check my iPython Notebook for detailed analysis and implementation of this project.
+
+
 
