@@ -10,7 +10,7 @@ and should have a good letter match accuracy.
 *	CTC Loss
 
 ## Model Architecture
-The Model used is Convultional Recurrent Neural Network(CRNN) which is end-to-end trainable ane its architecture consists of three parts:
+The Model used is Convolutional Recurrent Neural Network(CRNN) which is end-to-end trainable ane its architecture consists of three parts:
 1. convolutional layers, which extract a feature sequence from the input image;
 2. recurrentlayers, which predict a label distribution for each frame;
 3. transcription layer, which translates the per-frame predictions into the final label sequence
